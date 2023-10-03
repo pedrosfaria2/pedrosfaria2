@@ -1,4 +1,27 @@
-### Hi there 👋
+# Olá, mundo! 👋
+
+Meu nome é Pedro Serrano Faria e sou estudante de Ciência de Dados na UNIVESP. Minha jornada acadêmica e profissional me levou por diversas áreas, incluindo finanças e engenharia mecânica. No entanto, recentemente decidi mergulhar de cabeça no fascinante mundo da Tecnologia da Informação e Comunicação.
+
+Sou apaixonado por Ciência de Dados, Estatística e Desenvolvimento Web. Adoro a sensação de resolver quebra-cabeças complexos e descobrir insights ocultos nos dados. Acredito firmemente que a Ciência de Dados tem o poder de transformar informações brutas em histórias significativas e decisões informadas.
+
+Atualmente, estou em busca de oportunidades para aplicar e expandir meu conhecimento. Seja um estágio, um projeto colaborativo ou uma posição em tempo integral, estou aberto a explorar todas as possibilidades.
+
+Além disso, tenho uma sede insaciável de aprender. Estou sempre procurando maneiras de me desafiar e adquirir novas habilidades. Acredito que o aprendizado é um processo contínuo e que cada experiência oferece uma oportunidade para o crescimento pessoal e profissional.
+
+Sinta-se à vontade para entrar em contato se quiser discutir oportunidades, colaborações ou apenas trocar ideias!! 
+
+● 👀 Tenho interesse em Ciência de Dados e desenvolvimento WEB (mas na verdade tudo que envolve TI me anima também)
+
+● 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS, Python e Java
+
+
+## 📬 Como me achar? 
+
+<a href="https://www.linkedin.com/in/pedro-serrano-faria-459ba528b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/pedro.sfaria/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+📧 Email: [pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com)
+
+📧 Email acadêmico: [23206738@aluno.univesp.br](mailto:23206738@aluno.univesp.br)
 
 <!--
 **pedrosfaria2/pedrosfaria2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
