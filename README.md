@@ -10,7 +10,6 @@ Além disso, tenho uma sede insaciável de aprender. Estou sempre procurando man
 
 Sinta-se à vontade para entrar em contato se quiser discutir oportunidades, colaborações ou apenas trocar ideias!! 
 
-● 👀 Tenho interesse em Ciência de Dados e desenvolvimento WEB (mas na verdade tudo que envolve TI me anima também)
 
 ● 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS, Python e Java
 
