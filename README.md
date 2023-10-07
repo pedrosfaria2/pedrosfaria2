@@ -6,7 +6,7 @@ Sou apaixonado por Ciência de Dados, Estatística e Desenvolvimento Web. Adoro 
 
 Atualmente, estou em busca de oportunidades para aplicar e expandir meu conhecimento. Seja um estágio, um projeto colaborativo ou uma posição em tempo integral, estou aberto a explorar todas as possibilidades.
 
-Além disso, tenho uma sede insaciável de aprender. Estou sempre procurando maneiras de me desafiar e adquirir novas habilidades. Acredito que o aprendizado é um processo contínuo e que cada experiência oferece uma oportunidade para o crescimento pessoal e profissional.
+Além disso, tenho paixão por aprender. Estou sempre procurando maneiras de me desafiar e adquirir novas habilidades. Acredito que o aprendizado é um processo contínuo e que cada experiência oferece uma oportunidade para o crescimento pessoal e profissional.
 
 Sinta-se à vontade para entrar em contato se quiser discutir oportunidades, colaborações ou apenas trocar ideias!! 
 
