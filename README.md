@@ -16,7 +16,7 @@ Sinta-se à vontade para entrar em contato se quiser discutir oportunidades, col
 
 ## 📬 Como me achar? 
 
-<a href="https://www.linkedin.com/in/pedro-serrano-faria-459ba528b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/pedro.sfaria/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/pedro-serrano-faria/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/pedro.sfaria/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 📧 Email: [pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com)
 
