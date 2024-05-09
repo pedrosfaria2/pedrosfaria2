@@ -14,9 +14,17 @@ Feel free to get in touch if you want to discuss opportunities, collaborations, 
 
 <a href="https://www.linkedin.com/in/pedro-serrano-faria/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/pedro.sfaria/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-📧 Email: [pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com)
+📧 Email: [pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com)       
 
 📧 Academic email: [pedro.serranofaria@colorado.edu](mailto:pedro.serranofaria@colorado.edu)
+
+<br>
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosfaria2&layout=compact&theme=dracula)
+
+
+
+
 
 <!--
 **pedrosfaria2/pedrosfaria2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
