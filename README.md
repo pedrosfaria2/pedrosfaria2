@@ -12,7 +12,7 @@ started with math at USP, ran some factories, played with high-frequency trading
 def current_skills():
     return {
         "main_weapons": ["python", "typescript", "node"],
-        "side_quests": ["rust", "c#", "java"],
+        "side_quests": ["rust", "c#", "java", "kotlin"],
         "daily_tools": ["fastapi", "flask", "nestjs"],
         "interests": ["system design", "performance", "clean code"]
     }
