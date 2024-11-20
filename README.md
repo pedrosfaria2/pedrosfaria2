@@ -1,42 +1,42 @@
-# Hello World! 👋
+# < hey, i'm pedro /> 👾
 
-My name is Pedro Serrano Faria and I am a Data Science student at UNIVESP. In addition, I am pursuing a master’s degree in Computer Science at the University of Colorado Boulder. My academic and professional journey has led me through various areas, including finance, mechanical engineering, and now programming. I recently decided to dive headfirst into the fascinating world of Information and Communication Technology.
+backend dev who digs building cool stuff. math nerd turned programmer, currently juggling code and grad studies at UC Boulder.
 
-I am passionate about Data Science, Statistics, Mathematics, and Programming. I love the feeling of solving complex puzzles, discovering hidden insights in data, and developing efficient solutions through programming.
+## what's my deal?
 
-Currently, I am looking for opportunities to apply and expand my knowledge. Whether it’s an internship, a collaborative project, or a full-time position, I am open to exploring all possibilities.
+started with math at USP, ran some factories, played with high-frequency trading, and now i'm all about that backend life. turns out programming is just math in disguise, and i'm cool with that.
 
-In addition, I have a passion for learning. I am always looking for ways to challenge myself and acquire new skills. I believe that learning is a continuous process and that every experience offers an opportunity for personal and professional growth.
+## tech stack? something like:
 
-Feel free to get in touch if you want to discuss opportunities, collaborations, or just exchange ideas!!
+```python
+def current_skills():
+    return {
+        "main_weapons": ["python", "typescript", "node"],
+        "side_quests": ["rust", "c#", "java"],
+        "daily_tools": ["fastapi", "flask", "nestjs"],
+        "interests": ["system design", "performance", "clean code"]
+    }
+```
 
-📬 How to find me?
+## these days i'm...
+
+- crafting apis and microservices
+- diving deep into computer science at UC Boulder
+- learning more about data science at UNIVESP
+- probably breaking something while trying to optimize it
+
+## when i'm not coding...
+
+actually, who am i kidding? i'm usually still coding. but sometimes i'm reading about new tech or tinkering with rust just for fun.
+
+## let's connect
+
+got ideas? want to collaborate? or just chat about tech? hit me up:
 
 <a href="https://www.linkedin.com/in/pedro-serrano-faria/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/pedro.sfaria/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-📧 Email: [pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com)       
+📧 [pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com)  
+🎓 [pedro.serranofaria@colorado.edu](mailto:pedro.serranofaria@colorado.edu)  
+🌐 [pedrosfaria.com](https://www.pedrosfaria.com)
 
-📧 Academic email: [pedro.serranofaria@colorado.edu](mailto:pedro.serranofaria@colorado.edu)
-
-<br>
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosfaria2&layout=compact&theme=dracula)
-
-
-
-
-
-<!--
-**pedrosfaria2/pedrosfaria2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![my github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosfaria2&layout=compact&theme=dracula)
