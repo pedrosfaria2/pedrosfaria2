@@ -1,42 +1,29 @@
-# < hey, i'm pedro /> 👾
+# Pedro Serrano Faria
 
-backend dev who digs building cool stuff. math nerd turned programmer, currently juggling code and grad studies at UC Boulder.
+Hi, I'm Pedro. I work with **quantitative research and software engineering**, mostly on problems that sit somewhere between mathematics, data, and systems.
 
-## what's my deal?
+A lot of my work has been around **electronic markets, market microstructure, systematic trading, and performance-sensitive software**, but my interests are broader than finance. I'm particularly interested in **artificial intelligence, machine learning, statistical modeling, and reinforcement learning**, as well as the engineering required to turn research ideas into reliable software.
 
-started with math at USP, ran some factories, played with high-frequency trading, and now i'm all about that backend life. turns out programming is just math in disguise, and i'm cool with that.
+My background is in **applied mathematics and engineering**, and I'm currently pursuing an **M.S. in Computer Science at the University of Colorado Boulder**.
 
-## tech stack? something like:
+### Things I'm interested in
 
-```python
-def current_skills():
-    return {
-        "main_weapons": ["python", "typescript", "node"],
-        "side_quests": ["rust", "c#", "java", "kotlin"],
-        "daily_tools": ["fastapi", "flask", "nestjs"],
-        "interests": ["system design", "performance", "clean code"]
-    }
-```
+* quantitative research and statistical modeling
+* artificial intelligence and machine learning
+* reinforcement learning
+* market microstructure and systematic trading
+* high-frequency and low-latency systems
+* backend and distributed systems
+* performance-oriented software
 
-## these days i'm...
+### Mostly working with
 
-- crafting apis and microservices
-- diving deep into computer science at UC Boulder
-- learning more about data science at UNIVESP
-- probably breaking something while trying to optimize it
+`Python` · `C++` · `Rust` · `TypeScript` · `SQL`
 
-## when i'm not coding...
+`Linux` · `PostgreSQL` · `Docker` · `FastAPI` · `Node.js`
 
-actually, who am i kidding? i'm usually still coding. but sometimes i'm reading about new tech or tinkering with rust just for fun.
+### Find me
 
-## let's connect
+[LinkedIn](https://www.linkedin.com/in/pedro-serrano-faria/) · [Handshake]([https://www.pedrosfaria.com](https://boulder.joinhandshake.com/profiles/pedro-faria))
 
-got ideas? want to collaborate? or just chat about tech? hit me up:
-
-<a href="https://www.linkedin.com/in/pedro-serrano-faria/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/pedro.sfaria/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
-📧 [pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com)  
-🎓 [pedro.serranofaria@colorado.edu](mailto:pedro.serranofaria@colorado.edu)  
-🌐 [pedrosfaria.com](https://www.pedrosfaria.com)
-
-![my github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosfaria2&layout=compact&theme=dracula)
+[pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com) · [pedro.serranofaria@colorado.edu](mailto:pedro.serranofaria@colorado.edu)
