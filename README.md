@@ -24,6 +24,6 @@ My background is in **applied mathematics and engineering**, and I'm currently p
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/pedro-serrano-faria/) · [Handshake]([https://www.pedrosfaria.com](https://boulder.joinhandshake.com/profiles/pedro-faria))
+[LinkedIn](https://www.linkedin.com/in/pedro-serrano-faria/)
 
 [pedroserrano2@gmail.com](mailto:pedroserrano2@gmail.com) · [pedro.serranofaria@colorado.edu](mailto:pedro.serranofaria@colorado.edu)
